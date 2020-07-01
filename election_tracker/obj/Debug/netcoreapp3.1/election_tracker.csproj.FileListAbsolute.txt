@@ -1,0 +1,13 @@
+/home/maxwell/Documents/C#/election_tracker/obj/Debug/netcoreapp3.1/election_tracker.csprojAssemblyReference.cache
+/home/maxwell/Documents/C#/election_tracker/obj/Debug/netcoreapp3.1/election_tracker.AssemblyInfoInputs.cache
+/home/maxwell/Documents/C#/election_tracker/obj/Debug/netcoreapp3.1/election_tracker.AssemblyInfo.cs
+/home/maxwell/Documents/C#/election_tracker/obj/Debug/netcoreapp3.1/election_tracker.csproj.CoreCompileInputs.cache
+/home/maxwell/Documents/C#/election_tracker/bin/Debug/netcoreapp3.1/election_tracker
+/home/maxwell/Documents/C#/election_tracker/bin/Debug/netcoreapp3.1/election_tracker.deps.json
+/home/maxwell/Documents/C#/election_tracker/bin/Debug/netcoreapp3.1/election_tracker.runtimeconfig.json
+/home/maxwell/Documents/C#/election_tracker/bin/Debug/netcoreapp3.1/election_tracker.runtimeconfig.dev.json
+/home/maxwell/Documents/C#/election_tracker/bin/Debug/netcoreapp3.1/election_tracker.dll
+/home/maxwell/Documents/C#/election_tracker/bin/Debug/netcoreapp3.1/election_tracker.pdb
+/home/maxwell/Documents/C#/election_tracker/obj/Debug/netcoreapp3.1/election_tracker.dll
+/home/maxwell/Documents/C#/election_tracker/obj/Debug/netcoreapp3.1/election_tracker.pdb
+/home/maxwell/Documents/C#/election_tracker/obj/Debug/netcoreapp3.1/election_tracker.genruntimeconfig.cache
